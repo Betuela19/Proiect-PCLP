@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1588797208 source:c:\users\emanuela\desktop\proiect pclp\car\main.c
+	"car.h"
+	"data.h"
+
+1588872271 c:\users\emanuela\desktop\proiect pclp\car\car.h
+	"data.h"
+
+1588872514 source:c:\users\emanuela\desktop\proiect pclp\car\car.c
+	"car.h"
+	"data.h"
+
+1588627688 c:\users\emanuela\desktop\proiect pclp\car\data.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<assert.h>
+
+1588969728 source:c:\users\emanuela\desktop\proiectul\car\car.c
+	"car.h"
+	"data.h"
+
+1588872271 c:\users\emanuela\desktop\proiectul\car\car.h
+	"data.h"
+
+1588627688 c:\users\emanuela\desktop\proiectul\car\data.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<assert.h>
+
+1588957505 source:c:\users\emanuela\desktop\proiectul\car\main.c
+	"car.h"
+	"data.h"
+

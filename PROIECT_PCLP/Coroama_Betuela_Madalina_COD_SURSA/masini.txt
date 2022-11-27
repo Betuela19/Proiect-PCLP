@@ -1,0 +1,6 @@
+5
+1,Audi A4,Diesel,Rosu,5,220,198
+2,Ford Fiesta,Diesel,Griu,7,200,150
+3,Opel Vivaro,Benzina,Negru,9,200,170
+4,Citroen C4,Diesel,Alb,7,200,90
+5,Dacia Duster,Diesel,Albastru,5,200,100
